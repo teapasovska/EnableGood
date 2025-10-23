@@ -8,7 +8,7 @@ This repository contains a Next.js application located in the `my-app` directory
 ## Project Structure
 
 ```
-project3/
+
 ├── README.md                # Project overview (this file)
 └── my-app/                  # Main Next.js application
 	 ├── public/              # Static assets (images, svgs, etc.)
