@@ -10,16 +10,15 @@ This repository contains a Next.js application located in the `my-app` directory
 ```
 
 ├── README.md                # Project overview (this file)
-└── my-app/                  # Main Next.js application
-	 ├── public/              # Static assets (images, svgs, etc.)
-	 ├── src/                 # Source code
-	 │   ├── components/      # React components (common, company, explore, etc.)
-	 │   ├── context/         # React context providers
-	 │   ├── pages/           # Next.js pages (routing)
-	 │   └── styles/          # Global and component styles
-	 ├── package.json         # Project dependencies and scripts
-	 ├── next.config.ts       # Next.js configuration
-	 └── ...                  # Other configuration and setup files
+├── public/              # Static assets (images, svgs, etc.)
+├── src/                 # Source code
+│   ├── components/      # React components (common, company, explore, etc.)
+│   ├── context/         # React context providers
+│   ├── pages/           # Next.js pages (routing)
+│   └── styles/          # Global and component styles
+├── package.json         # Project dependencies and scripts
+├── next.config.ts       # Next.js configuration
+└── ...                  # Other configuration and setup files
 ```
 
 ## Getting Started
@@ -27,7 +26,6 @@ This repository contains a Next.js application located in the `my-app` directory
 1. **Install dependencies:**
 
    ```bash
-   cd my-app
    npm install
    ```
 
